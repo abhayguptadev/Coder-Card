@@ -38,7 +38,7 @@ python coder_card.py
 
 ---
 
-[⬇️ Download Coder Card v2.0 (EXE)](https://github.com/AbhayGupta-Dev/Coder-Card/releases/download/2.0/Coder.Card.exe)
+[⬇️ Download Coder Card v2.0 (EXE)](https://github.com/abhayguptadev/Coder-Card/releases/download/2.0/Coder_Card.exe)
 
 ⚡ Note: Windows may display a SmartScreen warning because this app is from an independent developer and not digitally signed. Please click “More info” → “Run anyway” to continue. This application is safe and will not harm your PC.
 
